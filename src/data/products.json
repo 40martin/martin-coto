@@ -1,0 +1,101 @@
+[   
+    {
+        "id": 1,
+        "title": "Yogur Firme Frutilla",
+        "shortDescription": "Serenisima Clasico 190 gr",
+        "longDescription": "Yogur por unidad",
+        "price": 750,
+        "stock": 1000,
+        "brand": "La Serenisima",
+        "category": "lacteos",
+        "discount": 15,
+        "tags": ["lacteo", "oferta"],
+        "mainImage": "https://static.cotodigital3.com.ar/sitios/fotos/large/00565200/00565238.jpg"
+    },
+
+    {
+        "id": 2,
+        "title": "Yogur Yogurisimo Firme",
+        "shortDescription": "Yogurisimo 190 gr",
+        "longDescription": "Yogur por unidad",
+        "price": 1200,
+        "stock": 900,
+        "brand": "La Serenisima",
+        "category": "lacteos",
+        "discount": 10,
+        "tags": ["lacteo", "oferta"],
+        "mainImage": "https://static.cotodigital3.com.ar/sitios/fotos/large/00565200/00565243.jpg"
+
+    },
+
+    {
+        "id": 3,
+        "title": "Agua Mineralizada",
+        "shortDescription": "Agua mineralizada 1.5L",
+        "longDescription": "Agua por unidad",
+        "price": 1400,
+        "stock": 300,
+        "brand": "Glaciar",
+        "category": "bebidas",
+        "discount": 90,
+        "tags": ["agua", "oferta"],
+        "mainImage": "https://static.cotodigital3.com.ar/sitios/fotos/large/00034200/00034252.jpg"
+    },
+
+    {
+        "id": 4,
+        "title": "Aceitunas",
+        "shortDescription": "Aceitunas verdes sachet 190 gr",
+        "longDescription": "Aceitunas por unidad",
+        "price": 400,
+        "stock": 100,
+        "brand": "Nucete",
+        "category": "aceitunas verdes",
+        "discount": 0,
+        "tags": ["aceitunas", "sachet"],
+        "mainImage": "https://static.cotodigital3.com.ar/sitios/fotos/large/00052700/00052706.jpg"
+    },
+
+    {
+        "id": 5,
+        "title": "Dulce de leche",
+        "shortDescription": "Dulce de leche Milkaut 400 grm",
+        "longDescription": "Dulce de leche por unidad",
+        "price": 2500,
+        "stock": 200,
+        "brand": "Milkaut",
+        "category": "dulces",
+        "discount": 100,
+        "tags": ["dulce de campo", "oferta"],
+        "mainImage": "https://static.cotodigital3.com.ar/sitios/fotos/large/00532500/00532582.jpg"
+    },
+
+    {
+        "id": 6,
+        "title": "Repuesto Raid",
+        "shortDescription": "Repuesto Raid 45 noches",
+        "longDescription": "Repuesto por unidad",
+        "price": 3700,
+        "stock": 50,
+        "brand": "Raid",
+        "category": "repuestos",
+        "discount": 5,
+        "tags": ["repuesto", "oferta limitada"],
+        "mainImage": "https://static.cotodigital3.com.ar/sitios/fotos/large/00505100/00505122.jpg"
+    },
+
+    {
+        "id": 7,
+        "title": "Lavandina Ayudin",
+        "shortDescription": "Lavandina 2L",
+        "longDescription": "Lavandina por unidad",
+        "price": 2000,
+        "stock": 100,
+        "brand": "Ayudin",
+        "category": "limpieza",
+        "discount": 20,
+        "tags": ["limpieza", "oferta"],
+        "mainImage": "https://static.cotodigital3.com.ar/sitios/fotos/large/00591000/00591050.jpg"
+    }
+
+    ]
